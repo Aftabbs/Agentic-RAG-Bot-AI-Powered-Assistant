@@ -2,7 +2,7 @@
  
 ## Why "Agentic RAG Bot"?
 
-The name perfectly captures the three core capabilities of the system:
+The name perfectly captures the three core capabilities of the system: 
 
 ### **Agentic** 
 - **Autonomous Decision Making**: The bot independently determines when to search the web, which documents to retrieve, and how to synthesize information
