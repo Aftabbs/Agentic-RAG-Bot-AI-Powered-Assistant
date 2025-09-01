@@ -8,7 +8,7 @@ The name perfectly captures the three core capabilities of the system:
 - **Autonomous Decision Making**: The bot independently determines when to search the web, which documents to retrieve, and how to synthesize information
 - **Multi-Tool Orchestration**: Seamlessly coordinates between RAG retrieval, web search, and conversational AI
 - **Goal-Oriented Behavior**: Actively pursues the best answer by combining multiple information sources
- 
+  
 ### **RAG (Retrieval-Augmented Generation)**
 - **Knowledge Base Integration**: Leverages vector database for domain-specific information
 - **Context-Aware Retrieval**: Finds and uses the most relevant information chunks
