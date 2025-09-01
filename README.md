@@ -1,7 +1,7 @@
 #  Agentic RAG Bot: AI-Powered RE  Assistant
  
 ## Why "Agentic RAG Bot"?
-
+ 
 The name perfectly captures the three core capabilities of the system:  
 
 ### **Agentic** 
