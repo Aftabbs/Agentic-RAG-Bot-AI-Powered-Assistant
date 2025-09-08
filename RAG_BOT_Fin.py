@@ -4,7 +4,7 @@ import time
 from typing import Dict, Any, Optional, List  
 import os  
 import requests 
-from dotenv import load_dotenv
+from dotenv import load_dotenv 
 import atexit
 import signal
 import sys
@@ -1080,6 +1080,7 @@ if __name__ == "__main__":
     # Run the main chat interface
 
     main()
+
 
 
 
