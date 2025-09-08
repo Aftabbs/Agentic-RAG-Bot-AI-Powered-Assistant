@@ -1,7 +1,7 @@
 import google.generativeai as genai
 import json
 import time
-from typing import Dict, Any, Optional, List
+from typing import Dict, Any, Optional, List 
 import os
 import requests
 from dotenv import load_dotenv
@@ -1078,4 +1078,5 @@ if __name__ == "__main__":
     # test_decision_logic()
     
     # Run the main chat interface
+
     main()
