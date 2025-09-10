@@ -5,7 +5,7 @@ This script will help you set up everything needed for the bot
 """ 
  
 import os
-import subprocess
+import subprocess 
 import sys
 
 def install_requirements():
@@ -216,5 +216,6 @@ def main():
 if __name__ == "__main__":
 
     main()
+
 
 
