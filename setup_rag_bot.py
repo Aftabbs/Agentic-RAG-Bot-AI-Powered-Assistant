@@ -2,7 +2,7 @@
 """
 Setup script for RAG-Enhanced Real Estate Bot
 This script will help you set up everything needed for the bot
-"""
+""" 
 
 import os
 import subprocess
@@ -214,4 +214,5 @@ def main():
     print("\nHappy chatting with Agent Mira!")
 
 if __name__ == "__main__":
+
     main()
