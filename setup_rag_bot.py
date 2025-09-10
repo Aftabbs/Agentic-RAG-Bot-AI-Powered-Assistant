@@ -3,7 +3,7 @@
 Setup script for RAG-Enhanced Real Estate Bot
 This script will help you set up everything needed for the bot
 """ 
-
+ 
 import os
 import subprocess
 import sys
@@ -216,3 +216,4 @@ def main():
 if __name__ == "__main__":
 
     main()
+
