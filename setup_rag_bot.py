@@ -9,7 +9,7 @@ import subprocess
 import sys
 
 def install_requirements():
-    """Install required packages"""
+    """Install required packages""" 
     print("Installing required packages...")
     
     packages = [
@@ -216,4 +216,5 @@ def main():
 if __name__ == "__main__":
 
     main()
+
 
