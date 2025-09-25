@@ -5,7 +5,7 @@ from typing import Dict, Any, Optional, List
 import os  
 import requests 
 from dotenv import load_dotenv  
-import atexit 
+import atexit  
 import signal
 import sys
 from langchain_community.document_loaders import PyPDFLoader, TextLoader, UnstructuredWordDocumentLoader
@@ -1080,6 +1080,7 @@ if __name__ == "__main__":
     # Run the main chat interface
 
     main()
+
 
 
 
